@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Leaderboard</string>
+
+    <!--leaderboard-->
+    <string name="leaderboard">Leaderboard</string>
+    <string name="region">Region</string>
+    <string name="national">National</string>
+    <string name="global">Global</string>
+</resources>
